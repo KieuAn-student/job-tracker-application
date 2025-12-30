@@ -326,3 +326,6 @@ MIT License - see LICENSE file for details
 ---
 
 **Built with ❤️ by Team 13 - UIT CN1.K2025 - Lap Trinh Python**
+## 👨‍💻 Contributor Note
+Một số cải thiện nhỏ về tài liệu đã được thêm vào
+nhằm giúp project dễ đọc và dễ tiếp cận hơn cho người mới.
