@@ -65,6 +65,12 @@ Job Tracker là giải pháp toàn diện cho việc theo dõi các đơn ứng 
 
 > **⚠️ Yêu cầu:** Python 3.11+ (khuyến nghị Python 3.11 để đảm bảo ổn định khi cài đặt dependencies)
 
+**Khuyến nghị thêm:**
+
+- Node.js >= 18
+- npm hoặc yarn
+- Git
+
 ### 1. Clone repository
 
 ```bash
